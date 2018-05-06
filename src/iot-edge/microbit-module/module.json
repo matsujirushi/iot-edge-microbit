@@ -1,0 +1,15 @@
+{
+    "$schema-version": "0.0.1",
+    "description": "",
+    "image": {
+        "repository": "matsujirushi/microbit-module",
+        "tag": {
+            "version": "1.0",
+            "platforms": {
+                "linux-amd64": "./Dockerfile"
+            }
+        },
+        "buildOptions": []
+    },
+    "language": "python"
+}
