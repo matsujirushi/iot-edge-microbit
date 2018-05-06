@@ -8,4 +8,4 @@
 1. [micro:bitをセットアップ](4-setup-microbit.md)
 1. [IoT Edgeにmicro:bitを登録](5-regist-microbit-to-iotedge.md)
 1. micro:bitとIoT Edge、IoT Hubの通信
-1. microbit-moduleの修正方法
+1. microbit-moduleの修正

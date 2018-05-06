@@ -12,7 +12,7 @@
 なにを使おうか迷ったのですが、Bluetooth LE通信で、入手しやすくセットアップが簡単、将来ハードウェア拡張もできるデバイスが良いなと思い、micro:bitを使うことにします。
 
 |役割|サービス|ハードウェア|OS|
-|:--|:--|:--|
+|:--|:--|:--|:--|
 |クラウドゲートウェイ|[IoT Hub](https://azure.microsoft.com/ja-jp/services/iot-hub/)|-|-|
 |エッジデバイス|[IoT Edge](https://azure.microsoft.com/ja-jp/services/iot-edge/)|[UPボード](http://www.up-board.org/up/)|[Ubuntu Linux](https://www.ubuntu.com/)|
 |リーフデバイス|-|[micro:bit](http://microbit.org/ja/guide/)|-|
