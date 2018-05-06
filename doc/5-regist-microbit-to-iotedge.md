@@ -43,7 +43,7 @@ sudo systemctl start bluetooth
 ## ペアリング
 
 1. micro:bitの`Aボタン`と`Bボタン`を押しながら、裏にある`RESETボタン`をクリックします。
-`Aボタン`と`Bボタン`は`PAIRING`とLED表示されるまで押し続けてください。
+`Aボタン`と`Bボタン`は`PAIRING`とLEDに表示されるまで押し続けてください。
 (参考動画：[Put your micro:bit into pairing mode](https://youtu.be/wslwyAMwMhs?t=15s))
 1. 
 
@@ -69,7 +69,7 @@ Device D9:10:91:8A:58:D5 (random)
 
 ## micro:bitの接続確認
 
-bluetoothctlでconnectしたときに、micro:bitのLED表示にうれしい顔が表示されれば正常です。
+bluetoothctlでconnectしたときに、micro:bitのLEDに`うれしい顔`が表示されれば正常です。
 
 ```bash
 $ sudo bluetoothctl

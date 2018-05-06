@@ -1,11 +1,11 @@
-#### IoT Edge v2‚Éƒ‚ƒmiƒŠ[ƒtƒfƒoƒCƒXj‚ğÚ‘±‚µ‚Ä‚İ‚æ‚¤I
+#### IoT Edge v2ã«ãƒ¢ãƒï¼ˆãƒªãƒ¼ãƒ•ãƒ‡ãƒã‚¤ã‚¹ï¼‰ã‚’æ¥ç¶šã—ã¦ã¿ã‚ˆã†ï¼
 
-# –ÚŸ
+# ç›®æ¬¡
 
-1. [‚Í‚¶‚ß‚É](1-intro.md)
-1. [IoT Hub‚ğƒZƒbƒgƒAƒbƒv](2-setup-iothub.md)
-1. [IoT Edge‚ğƒZƒbƒgƒAƒbƒv](3-setup-iotedge-upboard.md)
-1. [micro:bit‚ğƒZƒbƒgƒAƒbƒv](4-setup-microbit.md)
-1. [IoT Edge‚Émicro:bit‚ğ“o˜^](5-regist-microbit-to-iotedge.md)
-1. micro:bit‚ÆIoT EdgeAIoT Hub‚Ì’ÊM
-1. microbit-module‚ÌC³
+1. [ã¯ã˜ã‚ã«](1-intro.md)
+1. [IoT Hubã‚’ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—](2-setup-iothub.md)
+1. [IoT Edgeã‚’ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—](3-setup-iotedge-upboard.md)
+1. [micro:bitã‚’ã‚»ãƒƒãƒˆã‚¢ãƒƒãƒ—](4-setup-microbit.md)
+1. [IoT Edgeã«micro:bitã‚’ç™»éŒ²](5-regist-microbit-to-iotedge.md)
+1. [micro:bitã¨IoT Edgeã€IoT Hubã®é€šä¿¡](6-communicate.md)
+1. microbit-moduleã®ä¿®æ­£

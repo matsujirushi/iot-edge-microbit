@@ -153,9 +153,9 @@ sudo -H pip install -U azure-iot-edge-runtime-ctl
 
 ## IoT HubにIoT Edgeを追加
 
-1. IoT HubのIoT Edgeにある`Add IoT Edge Device`を選択し、デバイスIDを入力して`保存`をクリックします。  
+1. IoT HubのIoT Edgeにある`Add IoT Edge Device`をクリックし、デバイスIDを入力して`保存`をクリックします。  
 ![13](img/13.png)
-1. 追加したIoT Edgeのデバイスの詳細画面で、`Set Modules`を選択し、`Next` -> `Next` -> `Submit`をクリックします。
+1. 追加したIoT Edgeのデバイスの詳細画面で、`Set Modules`をクリックし、`Next` -> `Next` -> `Submit`をクリックします。
 すると、Deployed ModulesにedgeAgentとedgeHubが追加されます。  
 ![14](img/14.png)
 1. IoT Edgeの接続文字列をコピーして、メモ帳などに貼り付けておきます。(オプション)  
