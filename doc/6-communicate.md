@@ -60,5 +60,3 @@ IoT Edgeとペアリングしてあるmicro:bitの電源をオンして、micro:
 Device Explorerやiothub-explorerを使って、IoT EdgeからIoT Hubに加速度が送られているか確認してください。
 
 ![32](img/32.png)
-
-## (参考)

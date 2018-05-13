@@ -17,6 +17,13 @@
 |エッジデバイス|[IoT Edge](https://azure.microsoft.com/ja-jp/services/iot-edge/)|[UPボード](http://www.up-board.org/up/)|[Ubuntu Linux](https://www.ubuntu.com/)|
 |リーフデバイス|-|[micro:bit](http://microbit.org/ja/guide/)|-|
 
+## 構成
+
+独自コードは、IoT Edgeのモジュールとして動かす`microbit-module`です。  
+`microbit-module`は、Bluetooth LE通信でmicro:bitの加速度を定期的に取得して、Edge Hubへ転送します。  
+
+![37](img/37.png)
+
 ## 必要なもの
 
 ![18](img/18.png)
