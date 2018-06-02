@@ -6,7 +6,8 @@
         "tag": {
             "version": "1.0",
             "platforms": {
-                "linux-amd64": "./Dockerfile"
+                "linux-amd64": "./Dockerfile.linux-amd64",
+                "raspbian-arm32v7": "./Dockerfile.raspbian-arm32v7"
             }
         },
         "buildOptions": []
