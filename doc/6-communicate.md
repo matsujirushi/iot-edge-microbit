@@ -26,7 +26,8 @@ IoT Edgeとペアリングしてあるmicro:bitの電源をオンして、micro:
 ![30](img/30.png)
 
 **Name** ... `microbit-module`  
-**Image URI** ... `matsujirushi/microbit-module:1.0-linux-amd64`  
+**Image URI (UPボード)** ... `matsujirushi/microbit-module:1.0-linux-amd64`  
+**Image URI (RasPi)** ... `matsujirushi/microbit-module:1.0-raspbian-arm32v7`  
 **Container Create Options**
 ```json
 {
